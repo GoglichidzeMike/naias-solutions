@@ -10,7 +10,6 @@
 **Company:**    {{ $single['company'] }}  <br />
 **Website:**    {{ $single['website'] }}  <br /><br />
 **Message:**    {{ $single['message'] }}  <br /><br />
-**Date:**    {{ $single['created_at']->toDayDateTimeString() }}  <br />
 
 
 

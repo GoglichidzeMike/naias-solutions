@@ -84,10 +84,6 @@
           
         <ul class="sm:flex sm:space-x-2 align-center text-dark ">
           <li>
-            <a href="{{ route('dashboard') }}" class="text-sm sm:text-base py-3 hover:text-secondary  focus:outline-none focus:text-secondary transition duration-300 ease-out ">Dashboard</a>  
-          </li>
-          <div class="w-px h-auto bg-white bg-opacity-50 hidden sm:block"></div>
-          <li>
             <a href="https://goglichidze.me" target="_blank" rel="nofollow noreferrer" class="text-sm sm:text-base py-3 hover:text-secondary  focus:outline-none focus:text-secondary transition duration-300 ease-out">&copy; Mikael</a>  
           </li>
         </ul>

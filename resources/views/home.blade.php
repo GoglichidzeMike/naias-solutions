@@ -21,18 +21,17 @@
         </div>
         
         <p class="text-dark leading-6 mb-4 text-center md:text-left">
-          Naias is ultrafine nanobubble technology water purification system that is most efficient in (i) increaseing dissolved oxygen level in water and (ii) eradicating pathogens in water (i.e., bacteria, virus spores/fungi, including Harmful Algal Bloom) by producing Hydroxyl Radicals.
+          <span class="font-bold">Naias</span> is ultrafine <span class="font-bold">anobubble technology</span> water purification system that is most efficient in <span class="font-bold">(i)</span> increasing dissolved oxygen level in water and <span class="font-bold">(ii)</span> eradicating pathogens in water (<span class="italic">i.e</span>., bacteria, virus spores/fungi, including <span class="italic">Harmful Algal Bloom</span>) by producing <span class="font-bold">Hydroxyl Radicals.</span>
         </p>
 
         <p class="text-dark leading-6 mb-6 text-center md:text-left">
-          Naias is 100% natural with 0% chemical sor additives, leaving no ecological footprint other than eleveated dissolved oxygen level which is always good for our ecosystem.
+          <span class="font-bold">Naias</span> is <span class="font-bold">100% natural</span> with 0% chemicals, leaving <span class="font-bold">no ecological footprint</span> other than <span class="italic font-medium">eleveated dissolved oxygen</span> level which is always good for our ecosystem.
         </p>
         
         
         
-        <div class="mt-6 mx-auto lg:mx-0">
-          <a href="http://nabastech.com/" target="_blank" rel="noopener noreferrer" style="z-index:10" class="hero-btn bg-secondary  ring-secondary text-white hover:bg-white hover:text-secondary mr-4 md:mr-8">visit website</a>
-          <a href="#contact"                    class="hero-btn bg-white  ring-dark  text-dark hover:bg-dark  hover:text-white">contact us</a>
+        <div class="mx-auto lg:mx-0">
+          <a href="#contact" class="hero-btn bg-white  ring-dark  text-dark hover:bg-dark  hover:text-white">contact us</a>
         </div>
         
       </div>
@@ -43,7 +42,7 @@
             <ul class="splide__list">
               <li class="splide__slide">
                 <div class="relative">
-                  <a href="https://youtu.be/e614gvkyoIU" target="_blank" rel="noopener noreferrer" style="z-index:10" class="absolute slider-btn px-4 md:px-8 py-1 rounded-sm shadow-lg ring-2 text-sm leading-10 tracking-wider uppercase focus:outline-none focus:ring-4 transition-colors duration-200 ease-linear bg-secondary  ring-primary text-white hover:bg-white hover:text-secondary">Click to see</a>
+                  <a href="https://youtu.be/e614gvkyoIU" target="_blank" rel="noopener noreferrer" style="z-index:10" class="animate-pulse absolute text-center slider-btn px-4 md:px-8 rounded-sm shadow-lg ring-2 text-sm leading-1 tracking-wider uppercase focus:outline-none focus:ring-4 transition-colors duration-200 ease-linear bg-secondary  ring-primary text-white hover:bg-white hover:text-secondary">Click to see <br />News Report</a>
                   <style>
                     .slider-btn{
                       bottom: 12%;
