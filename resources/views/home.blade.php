@@ -21,7 +21,7 @@
         </div>
         
         <p class="text-dark leading-6 mb-4 text-center md:text-left">
-          <span class="font-bold">Naias</span> is ultrafine <span class="font-bold">anobubble technology</span> water purification system that is most efficient in <span class="font-bold">(i)</span> increasing dissolved oxygen level in water and <span class="font-bold">(ii)</span> eradicating pathogens in water (<span class="italic">i.e</span>., bacteria, virus spores/fungi, including <span class="italic">Harmful Algal Bloom</span>) by producing <span class="font-bold">Hydroxyl Radicals.</span>
+          <span class="font-bold">Naias</span> is ultrafine <span class="font-bold">nanobubble technology</span> water purification system that is most efficient in <span class="font-bold">(i)</span> increasing dissolved oxygen level in water and <span class="font-bold">(ii)</span> eradicating pathogens in water (<span class="italic">i.e</span>., bacteria, virus spores/fungi, including <span class="italic">Harmful Algal Bloom</span>) by producing <span class="font-bold">Hydroxyl Radicals.</span>
         </p>
 
         <p class="text-dark leading-6 mb-6 text-center md:text-left">
